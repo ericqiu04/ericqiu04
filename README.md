@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Qiu</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">An Inspired Frontend Developer from Canada</h3>
 
 - 🔭 I’m currently working on **my personal website**
 
