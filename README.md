@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m learning **React, Typescript, and C++**
+- 🌱 I’m learning **Python, Typescript, and C++**
 
 - 📫 How to reach me **ericruiqiu@gmail.com**
 
