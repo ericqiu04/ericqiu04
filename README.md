@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.JS, Typescript, MongoDB and Node.JS**
 
-- 👨‍💻 All of my projects are available at [eqiu.dev](eqiu.dev)
+- 👨‍💻 All of my projects are available at [eqiu.dev](https://eqiu.dev/)
 
 - 📫 How to reach me **ericruiqiu@gmail.com**
 
