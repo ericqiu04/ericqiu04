@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [A university housing rating app](https://github.com/ericqiu04/Canadian-University-Residence)
 
-- 🌱 I’m currently learning **Next.JS, Typescript, MongoDB and Node.JS**
+- 🌱 I’m currently learning **GO and Data Science**
 
-- 👨‍💻 All of my projects are available at [eqiu.dev](https://eqiu.dev/)
-
-- 📫 How to reach me **ericruiqiu@gmail.com**
+- 📫 How to reach me **eqiu@uwaterloo.cam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ericqiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericqiu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eqiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericqiu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
