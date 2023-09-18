@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Qiu</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
-- 🔭 I’m currently working on [A university housing rating app](https://github.com/ericqiu04/Canadian-University-Residence)
+- 🔭 I’m currently working on [A university housing rating app](https://github.com/ericqiu04/Residence-Rater)
 
 - 🌱 I’m currently learning **GO and Data Science**
 
