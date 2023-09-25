@@ -2,6 +2,7 @@
 <img src = "https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt = "bongo"/>
 
 I am a Computer Engineering student at the [University of Waterloo](https://uwaterloo.ca/)
+
 I’m currently working on: 
 - [Residence Rating](https://github.com/ericqiu04/Residence-Rater), a web app that allows students to rate residences in Ontario Universities
 
