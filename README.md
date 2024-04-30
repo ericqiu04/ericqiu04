@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Eric Qiu</h1> 
-<img src = "https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt = "bongo"/>
 
 I am a Computer Engineering student at the [University of Waterloo](https://uwaterloo.ca/)
 
+<div><i> Incoming Data Science Intern at <strong>Questrade</strong></i>"</div>
+<br>
+
 I’m currently working on: 
-- [Residence Rating](https://github.com/ericqiu04/Residence-Rater), a web app that allows students to rate residences in Ontario Universities
+- Web Application for a non profit
 
 I'm currenty learning:
 - Data Science and Machine Learning
