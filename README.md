@@ -1,15 +1,7 @@
 <h1 align="center">Hi, I'm Eric Qiu</h1> 
 
 I am a Computer Engineering student at the [University of Waterloo](https://uwaterloo.ca/)
-
-<div><i> Incoming Data Science Intern at <strong>Questrade</strong></i>"</div>
 <br>
-
-I’m currently working on: 
-- Web Application for a non profit
-
-I'm currenty learning:
-- Data Science and Machine Learning
 
 
 #### Here are some languages + tools I use
